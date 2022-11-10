@@ -1,10 +1,7 @@
 ## CS401 Pong Assignment
 
 Each student will:
-* Fork this Pong repository
 * Create their own version of the Pong game that:    
-  * Extends edu.csueastbay.cs401.pong.Game  
-  * You may also extend the other classes such as Wall and Puck  
   * Your Game will have 3 or more improvements on the original Pong Game    
     * Create better/more complicated game play    
     * Make the game more entertaining or humorous     
